@@ -1,0 +1,18 @@
+public  class coffee {
+
+    public main class {
+
+
+        }
+        string indgredients;
+    int No_cups;
+    public coffee (){
+        this.indgredients=indgredients;
+        this.No_cups=No_cups;
+    }
+    public makeCoffee()
+    {
+        System.out.print ("coffee ready");
+    }
+
+}
